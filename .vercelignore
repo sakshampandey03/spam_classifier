@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore documentation
+docs/
+
+# Ignore test files
+tests/
+
+# Ignore large files or folders
+large_folder/
